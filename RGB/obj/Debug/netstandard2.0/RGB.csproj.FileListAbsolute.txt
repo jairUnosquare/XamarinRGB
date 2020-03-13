@@ -1,0 +1,12 @@
+/Users/jairpinedo/Documents/Projects/RGB/RGB/bin/Debug/netstandard2.0/RGB.deps.json
+/Users/jairpinedo/Documents/Projects/RGB/RGB/bin/Debug/netstandard2.0/RGB.dll
+/Users/jairpinedo/Documents/Projects/RGB/RGB/bin/Debug/netstandard2.0/ref/RGB.dll
+/Users/jairpinedo/Documents/Projects/RGB/RGB/bin/Debug/netstandard2.0/RGB.pdb
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/RGB.AssemblyInfoInputs.cache
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/RGB.AssemblyInfo.cs
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/RGB.dll
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/ref/RGB.dll
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/RGB.pdb
+/Users/jairpinedo/Documents/Projects/RGB/RGB/obj/Debug/netstandard2.0/MainRGB.xaml.g.cs
